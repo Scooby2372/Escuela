@@ -56,7 +56,9 @@ body {
   text-transform: uppercase;
   letter-spacing: 2px;
 }
-
+.contacto a {
+    color: #FFFFFF;
+}
 .contacto {
   list-style: none;
   margin-top: 16px;
